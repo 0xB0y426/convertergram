@@ -23,3 +23,5 @@ output.wav → the generated audio file.
 Extra option: --spectrogram
 
 If you run the program with the --spectrogram flag, it will not only generate the audio but also directly show the spectrogram of the resulting sound. That way, you can immediately see how your image looks when hidden inside the audio signal.
+
+![archbtw](vdo.gif)
